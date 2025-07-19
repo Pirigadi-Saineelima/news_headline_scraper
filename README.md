@@ -1,5 +1,5 @@
  📌 Objective
-Scrape top news headlines from a news website using Python and save them in a `.txt` file.
+- Scrape top news headlines from a news website using Python and save them in a `.txt` file.
 
 ---
 
